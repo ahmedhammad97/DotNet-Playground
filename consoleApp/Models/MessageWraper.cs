@@ -1,5 +1,3 @@
-
-
 namespace consoleApp
 {
     class MessageWraper : IMessageWraper

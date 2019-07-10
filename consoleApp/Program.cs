@@ -18,6 +18,9 @@ namespace consoleApp
                 Console.WriteLine("Wrong format .. Message got ignored");
               }
 
+              WriteToFile writer = new WriteToFile(msgWraper.GetName(), msgWraper.GetMessage());
+              writer.Write();
+
             }
         }
     }
