@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace consoleApp
 {
@@ -6,7 +7,18 @@ namespace consoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            while(true){
+              string message = Console.ReadLine();
+              if(message == "end" || message == "END"){break;}
+
+              MessageWraper msgWraper = new MessageWraper(message);
+              bool successFlag = msgWraper.Parse();
+
+              if(!successFlag){
+                Console.WriteLine("Wrong format .. Message got ignored");
+              }
+
+            }
         }
     }
 }

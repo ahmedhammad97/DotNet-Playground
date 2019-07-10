@@ -1,0 +1,11 @@
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/obj/Debug/netcoreapp2.2/consoleApp.csprojAssemblyReference.cache
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/obj/Debug/netcoreapp2.2/consoleApp.csproj.CoreCompileInputs.cache
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/obj/Debug/netcoreapp2.2/consoleApp.AssemblyInfoInputs.cache
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/obj/Debug/netcoreapp2.2/consoleApp.AssemblyInfo.cs
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/bin/Debug/netcoreapp2.2/consoleApp.deps.json
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/bin/Debug/netcoreapp2.2/consoleApp.runtimeconfig.json
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/bin/Debug/netcoreapp2.2/consoleApp.runtimeconfig.dev.json
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/bin/Debug/netcoreapp2.2/consoleApp.dll
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/bin/Debug/netcoreapp2.2/consoleApp.pdb
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/obj/Debug/netcoreapp2.2/consoleApp.dll
+/home/hammad/Desktop/Dotnet Playgroud/consoleApp/obj/Debug/netcoreapp2.2/consoleApp.pdb
