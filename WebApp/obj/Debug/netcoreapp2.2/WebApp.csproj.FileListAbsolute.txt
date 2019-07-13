@@ -1,0 +1,14 @@
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/bin/Debug/netcoreapp2.2/WebApp.deps.json
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/bin/Debug/netcoreapp2.2/WebApp.runtimeconfig.json
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/bin/Debug/netcoreapp2.2/WebApp.runtimeconfig.dev.json
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/bin/Debug/netcoreapp2.2/WebApp.dll
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/bin/Debug/netcoreapp2.2/WebApp.pdb
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/obj/Debug/netcoreapp2.2/WebApp.csprojAssemblyReference.cache
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/obj/Debug/netcoreapp2.2/WebApp.csproj.CoreCompileInputs.cache
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/obj/Debug/netcoreapp2.2/WebApp.RazorAssemblyInfo.cache
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/obj/Debug/netcoreapp2.2/WebApp.RazorAssemblyInfo.cs
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/obj/Debug/netcoreapp2.2/WebApp.AssemblyInfoInputs.cache
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/obj/Debug/netcoreapp2.2/WebApp.AssemblyInfo.cs
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/obj/Debug/netcoreapp2.2/WebApp.RazorTargetAssemblyInfo.cache
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/obj/Debug/netcoreapp2.2/WebApp.dll
+/home/hammad/Desktop/Dotnet Playgroud/WebApp/obj/Debug/netcoreapp2.2/WebApp.pdb
